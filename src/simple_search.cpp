@@ -42,16 +42,6 @@ int main()
     return 0;
 }
 
-/**
- * @brief Prints the elements of an integer array (vector).
- *
- * This function prints all the elements of the given array, separating each element
- * with a " - " symbol. It is useful for displaying the content of an array.
- *
- * @param array The array to be printed.
- * @param size The size of the array to iterate over.
- */
-
 void printArray(const int *array, int size)
 {
     std::cout << "Array: ";
