@@ -1,4 +1,4 @@
-# Data Structures in C++
+# Data Structures and Algorithms in C++
 
 This is my study repository.
 
